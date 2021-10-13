@@ -53,9 +53,19 @@
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux基金会改于开源项目的指南。
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - 一个开源规则指南, 由 Kent C. Dodds 和 Sarah Drasner 撰写.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 为大学生提供的关于学习一门新语言的资源或机会的对照表。
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - 一步一步通过[Abati Adewale](https://www.acekyd.com)接近贡献你的第一个开源项目。
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - 这个网站有一个托管在GitHub上提交上去为了复查的属于开源的项目的拉取请求列表。
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - 一个指导你如何一步一步开始在GitHub上为开源工程做贡献的视频教程。
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - 一步一步通过[Abati Adewale](https://www.acekyd.com)接近贡献你的第一个开源项目。
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - 这个关于开源贡献的演练覆盖了从选择一个合适的项目，到写issue，再到PR通过并入。
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - 他们注重实事求是地给Github上的个人项目贡献PR。
+- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - 这篇文章给初学者提供了开源的资源，好让他们根据他们喜欢的编程语言去开始。
+- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub现在可以帮助你找到贡献开源的第一个issues。
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - 这片综合文章是面向商业（当然也对个人贡献者有用），主要讲到为什么、怎么样、有什么开源项目你可以参与。
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
+让我们开启开源的世界，从开源的操场开始。这是特别为教育和实际的经验设计的。
+- ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - 一个帮助贡献者胜过进入开源障碍的repo。
+- ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - 一个有关所有开源的repo。这个项目通过视觉的方法，帮助Github成员练习基础的和更高级的git指令，从而进入开源世界。
+
 
 ## GitHub上直接搜索
 在GitHub上搜索合适的Issue链接来进行贡献。
