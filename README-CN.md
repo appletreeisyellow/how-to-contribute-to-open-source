@@ -65,6 +65,9 @@
 让我们开启开源的世界，从开源的操场开始。这是特别为教育和实际的经验设计的。
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - 一个帮助贡献者胜过进入开源障碍的repo。
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - 一个有关所有开源的repo。这个项目通过视觉的方法，帮助Github成员练习基础的和更高级的git指令，从而进入开源世界。
+- ["Open Advice"](http://open-advice.org/) - 从不同的免费开源项目收集来的知识。有42位开发者分享了他们在最初开发时想要知道的事情，这样你就可以清楚从哪里怎么起步做贡献。
+- ["GitHub Learning Lab"](https://lab.github.com/) - 通过Github学习实验室提升你的技能。我们的机器人朋友会带你经过一系列的有趣并实际的项目，来快速学习技能，并且同时分享有帮助的反馈。
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - 这片文章涵盖的规则是建立在对许多社区和成员、领导者和观察者的研究。
 
 
 ## GitHub上直接搜索
